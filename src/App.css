@@ -1,0 +1,33 @@
+body {
+    background: cadetblue !important;
+}
+
+.select-button {
+    background-color: antiquewhite;
+}
+
+.price-btn {
+    display: flex;
+    flex-direction: column;
+    vertical-align: bottom;
+    justify-content: end;
+    text-align: center;
+}
+
+.content {
+    background: antiquewhite;
+    border: 1px solid red;
+    border-radius: 10px;
+}
+
+.button-grp {
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.grp-back {
+    background-color: rgb(237 237 237);
+    border-radius: 10px;
+}
